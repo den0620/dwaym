@@ -1,2 +1,2 @@
 # dwam
-*D*isplay *way*land *M*anager
+**D**isplay **way**land **M**anager
